@@ -6,8 +6,8 @@
 
 ### 1
 
-####  Test ()
-
+#### Ultrasonic sensor Test (1_Ultrasonic_sensor.c)
+초음파 센서로 거리 측정 & 4Digit 7-Segment에 출력 
 
 ```
 
