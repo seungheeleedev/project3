@@ -19,8 +19,8 @@
 
 ### 2
 
-####  Test ()
-
+#### Piezo buzzer Test (2_Piezo_buzzer.c)
+초음파 센서로 거리 측정 & 4Digit 7-Segment에 출력 & 6cm이하 피에조 부저 ON
 
 ```
 
