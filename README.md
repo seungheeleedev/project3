@@ -32,7 +32,7 @@
 
 ### 3
 
-#### UART Test (3_UART.c)
+#### Main UART Test (3_UART.c)
 아트메가2 SW1을 눌렀을 때 아트메가1 LED1 ON
 아트메가2 SW2를 눌렀을 때 아트메가1 LED1 OFF
 
@@ -40,8 +40,9 @@
 
 ```
 
-####  Test ()
-
+#### Sub UART Test (3_UART2.c)
+아트메가2 SW1을 눌렀을 때 아트메가1 LED1 ON
+아트메가2 SW2를 눌렀을 때 아트메가1 LED1 OFF
 
 ```
 
