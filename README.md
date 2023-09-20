@@ -54,8 +54,8 @@
 
 ### 4
 
-####  Test ()
-
+#### CLCD Test (4_CLCD.c)
+CLCD에 문자열(open & close | safe & warning) 출력
 
 ```
 
