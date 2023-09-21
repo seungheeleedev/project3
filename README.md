@@ -61,8 +61,8 @@ CLCD에 문자열(open & close | safe & warning) 출력
 
 ```
 
-####  Test ()
-
+#### Dot matrix Test (4_Dot_matrix)
+Dot matrix에 거리에 따라 출력
 
 ```
 
